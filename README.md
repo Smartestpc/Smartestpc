@@ -60,7 +60,6 @@
 
 <div align="center" style="background: rgba(10,10,20,0.6); border: 1px solid rgba(108,99,255,0.4); border-radius: 20px; padding: 25px; backdrop-filter: blur(8px); max-width: 700px; margin: auto;">
   
-```yaml
 Name: Smart Nwaiche
 Role: Full-Stack Engineer
 
@@ -131,4 +130,4 @@ Fun Fact:
 <div align="center" style="background: linear-gradient(145deg, rgba(108,99,255,0.15), rgba(138,43,226,0.15)); border: 1px solid rgba(255,255,255,0.2); border-radius: 20px; padding: 40px; margin: 30px 0; backdrop-filter: blur(10px);"><h2 style="color: white; margin-top: 0;">Let's Build Together</h2> <p style="color: #ccc; max-width: 600px;">I'm available for freelance, contract, and remote roles. Let's create something impactful.</p><a href="mailto:smartmunachi79@gmail.com"> <img src="https://img.shields.io/badge/Hire%20Me-8A2BE2?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=6C63FF" alt="Hire Me" style="transition: transform 0.2s;"/> </a></div>
 <div align="center">
 Thanks for stopping by!
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6C63FF,100:8A2BE2"/></div> ```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6C63FF,100:8A2BE2"/></div>
