@@ -37,7 +37,7 @@ I'm a Full-Stack Engineer who bridges engineering and design to ship fast, elega
 
 # 🚀 About Me
 
-```yaml
+
 Name: Smart Nwaiche
 Role: Full-Stack Engineer
 
