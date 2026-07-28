@@ -58,37 +58,68 @@
 
 # 🚀 About Me
 
-<div align="center" style="background: rgba(10,10,20,0.6); border: 1px solid rgba(108,99,255,0.4); border-radius: 20px; padding: 25px; backdrop-filter: blur(8px); max-width: 700px; margin: auto;">
-  
-Name: Smart Nwaiche
-Role: Full-Stack Engineer
+<div align="center">
+  <!-- Responsive card grid -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin: 20px 0;">
 
-Currently Working On:
-  - Modern SaaS Applications
-  - Developer Tools
-  - Smartelyte Projects
+    <!-- Identity Card -->
+    <div style="background: rgba(108,99,255,0.08); border: 1px solid rgba(138,43,226,0.35); border-radius: 18px; padding: 20px; min-width: 200px; flex: 1 1 220px; backdrop-filter: blur(8px);">
+      <h3 style="color: #b388ff; margin: 0 0 12px; font-size: 1.1rem;">👤 Identity</h3>
+      <p style="color: #e0e0e0; margin: 4px 0;"><strong style="color: #ffffff;">Smart Nwaiche</strong></p>
+      <p style="color: #c0c0c0; margin: 4px 0; font-size: 0.9rem;">Full-Stack Engineer</p>
+    </div>
 
-Learning:
-  - Cloud Computing
-  - DevOps
-  - AI Integrations
-  - System Design
+    <!-- Currently Working On Card -->
+    <div style="background: rgba(108,99,255,0.08); border: 1px solid rgba(138,43,226,0.35); border-radius: 18px; padding: 20px; min-width: 200px; flex: 1 1 220px; backdrop-filter: blur(8px);">
+      <h3 style="color: #b388ff; margin: 0 0 12px; font-size: 1.1rem;">🔨 Working On</h3>
+      <ul style="list-style: none; padding: 0; margin: 0; text-align: left; color: #cccccc; font-size: 0.9rem; line-height: 1.8;">
+        <li>✨ Modern SaaS Apps</li>
+        <li>🛠 Developer Tools</li>
+        <li>📝 Smartelyte Projects</li>
+      </ul>
+    </div>
 
-Looking to Collaborate:
-  - Startups
-  - Open Source
-  - SaaS Products
+    <!-- Learning Card -->
+    <div style="background: rgba(108,99,255,0.08); border: 1px solid rgba(138,43,226,0.35); border-radius: 18px; padding: 20px; min-width: 200px; flex: 1 1 220px; backdrop-filter: blur(8px);">
+      <h3 style="color: #b388ff; margin: 0 0 12px; font-size: 1.1rem;">📚 Learning</h3>
+      <ul style="list-style: none; padding: 0; margin: 0; text-align: left; color: #cccccc; font-size: 0.9rem; line-height: 1.8;">
+        <li>☁️ Cloud Computing</li>
+        <li>⚙️ DevOps</li>
+        <li>🤖 AI Integrations</li>
+        <li>🏗 System Design</li>
+      </ul>
+    </div>
 
-Ask Me About:
-  - Next.js
-  - React
-  - TypeScript
-  - Node.js
-  - SEO
-  - Performance
+    <!-- Collaborate Card -->
+    <div style="background: rgba(108,99,255,0.08); border: 1px solid rgba(138,43,226,0.35); border-radius: 18px; padding: 20px; min-width: 200px; flex: 1 1 220px; backdrop-filter: blur(8px);">
+      <h3 style="color: #b388ff; margin: 0 0 12px; font-size: 1.1rem;">🤝 Collaborate</h3>
+      <ul style="list-style: none; padding: 0; margin: 0; text-align: left; color: #cccccc; font-size: 0.9rem; line-height: 1.8;">
+        <li>🚀 Startups</li>
+        <li>📖 Open Source</li>
+        <li>💼 SaaS Products</li>
+      </ul>
+    </div>
 
-Fun Fact:
-  "Great software is where engineering meets design."
+    <!-- Ask Me About Card -->
+    <div style="background: rgba(108,99,255,0.08); border: 1px solid rgba(138,43,226,0.35); border-radius: 18px; padding: 20px; min-width: 200px; flex: 1 1 220px; backdrop-filter: blur(8px);">
+      <h3 style="color: #b388ff; margin: 0 0 12px; font-size: 1.1rem;">💬 Ask Me About</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: flex-start;">
+        <span style="background: rgba(138,43,226,0.2); padding: 4px 10px; border-radius: 12px; font-size: 0.8rem; color: #e0cfff;">Next.js</span>
+        <span style="background: rgba(138,43,226,0.2); padding: 4px 10px; border-radius: 12px; font-size: 0.8rem; color: #e0cfff;">React</span>
+        <span style="background: rgba(138,43,226,0.2); padding: 4px 10px; border-radius: 12px; font-size: 0.8rem; color: #e0cfff;">TypeScript</span>
+        <span style="background: rgba(138,43,226,0.2); padding: 4px 10px; border-radius: 12px; font-size: 0.8rem; color: #e0cfff;">Node.js</span>
+        <span style="background: rgba(138,43,226,0.2); padding: 4px 10px; border-radius: 12px; font-size: 0.8rem; color: #e0cfff;">SEO</span>
+        <span style="background: rgba(138,43,226,0.2); padding: 4px 10px; border-radius: 12px; font-size: 0.8rem; color: #e0cfff;">Performance</span>
+      </div>
+    </div>
+
+    <!-- Fun Fact Card -->
+    <div style="background: rgba(108,99,255,0.08); border: 1px solid rgba(138,43,226,0.35); border-radius: 18px; padding: 20px; min-width: 200px; flex: 1 1 220px; backdrop-filter: blur(8px);">
+      <h3 style="color: #b388ff; margin: 0 0 12px; font-size: 1.1rem;">🎯 Fun Fact</h3>
+      <p style="color: #ddd; font-style: italic; font-size: 0.95rem; margin: 0;">“Great software is where engineering meets design.”</p>
+    </div>
+
+  </div>
 </div>
 ⚡ Tech Stack
 <div align="center" style="background: linear-gradient(145deg, rgba(108,99,255,0.08), rgba(138,43,226,0.08)); border: 1px solid rgba(255,255,255,0.1); border-radius: 24px; padding: 30px; margin: 30px 0; backdrop-filter: blur(12px);"><h3 style="color: #b388ff; margin-bottom: 20px;">Languages & Core</h3> <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
