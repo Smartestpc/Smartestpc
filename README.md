@@ -250,14 +250,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SmartestPC&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartestPC&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -271,22 +263,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmartestPC&theme=tokyo-night&hide_border=true"/>
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SmartestPC&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
----
-
-# ⚡ Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SmartestPC/SmartestPC/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
