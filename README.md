@@ -59,16 +59,13 @@
 # 🚀 About Me
 
 <div align="center">
-  <!-- Responsive card grid -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin: 20px 0;">
-
     <!-- Identity Card -->
     <div style="background: rgba(108,99,255,0.08); border: 1px solid rgba(138,43,226,0.35); border-radius: 18px; padding: 20px; min-width: 200px; flex: 1 1 220px; backdrop-filter: blur(8px);">
       <h3 style="color: #b388ff; margin: 0 0 12px; font-size: 1.1rem;">👤 Identity</h3>
       <p style="color: #e0e0e0; margin: 4px 0;"><strong style="color: #ffffff;">Smart Nwaiche</strong></p>
       <p style="color: #c0c0c0; margin: 4px 0; font-size: 0.9rem;">Full-Stack Engineer</p>
     </div>
-
     <!-- Currently Working On Card -->
     <div style="background: rgba(108,99,255,0.08); border: 1px solid rgba(138,43,226,0.35); border-radius: 18px; padding: 20px; min-width: 200px; flex: 1 1 220px; backdrop-filter: blur(8px);">
       <h3 style="color: #b388ff; margin: 0 0 12px; font-size: 1.1rem;">🔨 Working On</h3>
@@ -78,7 +75,6 @@
         <li>📝 Smartelyte Projects</li>
       </ul>
     </div>
-
     <!-- Learning Card -->
     <div style="background: rgba(108,99,255,0.08); border: 1px solid rgba(138,43,226,0.35); border-radius: 18px; padding: 20px; min-width: 200px; flex: 1 1 220px; backdrop-filter: blur(8px);">
       <h3 style="color: #b388ff; margin: 0 0 12px; font-size: 1.1rem;">📚 Learning</h3>
@@ -89,7 +85,6 @@
         <li>🏗 System Design</li>
       </ul>
     </div>
-
     <!-- Collaborate Card -->
     <div style="background: rgba(108,99,255,0.08); border: 1px solid rgba(138,43,226,0.35); border-radius: 18px; padding: 20px; min-width: 200px; flex: 1 1 220px; backdrop-filter: blur(8px);">
       <h3 style="color: #b388ff; margin: 0 0 12px; font-size: 1.1rem;">🤝 Collaborate</h3>
@@ -99,7 +94,6 @@
         <li>💼 SaaS Products</li>
       </ul>
     </div>
-
     <!-- Ask Me About Card -->
     <div style="background: rgba(108,99,255,0.08); border: 1px solid rgba(138,43,226,0.35); border-radius: 18px; padding: 20px; min-width: 200px; flex: 1 1 220px; backdrop-filter: blur(8px);">
       <h3 style="color: #b388ff; margin: 0 0 12px; font-size: 1.1rem;">💬 Ask Me About</h3>
@@ -112,13 +106,11 @@
         <span style="background: rgba(138,43,226,0.2); padding: 4px 10px; border-radius: 12px; font-size: 0.8rem; color: #e0cfff;">Performance</span>
       </div>
     </div>
-
     <!-- Fun Fact Card -->
     <div style="background: rgba(108,99,255,0.08); border: 1px solid rgba(138,43,226,0.35); border-radius: 18px; padding: 20px; min-width: 200px; flex: 1 1 220px; backdrop-filter: blur(8px);">
       <h3 style="color: #b388ff; margin: 0 0 12px; font-size: 1.1rem;">🎯 Fun Fact</h3>
       <p style="color: #ddd; font-style: italic; font-size: 0.95rem; margin: 0;">“Great software is where engineering meets design.”</p>
     </div>
-
   </div>
 </div>
 ⚡ Tech Stack
