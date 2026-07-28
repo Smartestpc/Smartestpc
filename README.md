@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,100:8A2BE2&text=Smart%20Nwaiche&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer;Building+Scalable+Digital+Products;Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Open+Source+Contributor;Always+Learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Smart+Nwaiche;Full-Stack+Engineer;Building+Scalable+Digital+Products;Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Open+Source+Contributor;Always+Learning.)](https://git.io/typing-svg)
 
 <div style="max-width: 800px; margin: auto; background: linear-gradient(145deg, rgba(108,99,255,0.1), rgba(138,43,226,0.1)); border: 1px solid rgba(255,255,255,0.15); border-radius: 20px; padding: 25px; margin-top: 20px; margin-bottom: 20px; backdrop-filter: blur(10px);">
   <p style="font-size: 1.1rem; color: #d4d4d8; line-height: 1.8;">
