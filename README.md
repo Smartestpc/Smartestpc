@@ -167,7 +167,7 @@
   <a href="https://github.com/SmartestPC">
     <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://smartnwaiche.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white&labelColor=8A2BE2" title="Portfolio"/>
   </a>
 </div>
